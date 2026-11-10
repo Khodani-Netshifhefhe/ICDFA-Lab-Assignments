@@ -1,0 +1,10 @@
+# Nmap 7.95 scan initiated Tue Nov 10 19:03:18 2026 as: /usr/lib/nmap/nmap --privileged -sT -p 80,8080 -oN avoidance-ports.txt 192.168.81.129
+Nmap scan report for 192.168.81.129
+Host is up (0.0011s latency).
+
+PORT     STATE  SERVICE
+80/tcp   open   http
+8080/tcp closed http-proxy
+MAC Address: 00:0C:29:43:E2:33 (VMware)
+
+# Nmap done at Tue Nov 10 19:03:31 2026 -- 1 IP address (1 host up) scanned in 13.13 seconds

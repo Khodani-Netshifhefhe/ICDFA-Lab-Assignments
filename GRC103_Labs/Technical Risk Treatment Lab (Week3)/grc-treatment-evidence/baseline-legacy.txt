@@ -1,0 +1,8 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/3.12.3
+Date: Tue, 10 Nov 2026 15:57:32 GMT
+Content-type: text/html
+Content-Length: 25
+Last-Modified: Tue, 10 Nov 2026 15:52:00 GMT
+
+Legacy training endpoint

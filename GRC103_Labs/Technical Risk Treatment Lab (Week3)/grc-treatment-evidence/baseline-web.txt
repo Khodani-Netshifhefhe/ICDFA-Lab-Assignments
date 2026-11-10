@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.24.0 (Ubuntu)
+Date: Tue, 10 Nov 2026 15:57:32 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+<html>
+<head><title>Index of /</title></head>
+<body>
+<h1>Index of /</h1><hr><pre><a href="../">../</a>
+<a href="archive/">archive/</a>                                           10-Nov-2026 15:34                   -
+<a href="public/">public/</a>                                            10-Nov-2026 15:34                   -
+</pre><hr></body>
+</html>
